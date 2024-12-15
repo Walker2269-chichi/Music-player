@@ -1,0 +1,77 @@
+{
+    "songs": [
+      {
+        "name": "Isabella",
+        "artist": "Sauti Sol",
+        "audio": "https://mdundo.com/widget_song/41941",
+        "image": "https://djprotegekenya.com/wp-content/uploads/2015/09/Isabela-Sauti-Sol.jpg"
+      },
+      {
+        "name": "Commas",
+        "artist": "Ayra starr",
+        "audio": "https://mdundo.com/widget_song/2996181",
+        "image": "https://example.com/images/melanin.jpg"
+      },
+      {
+        "name": "Sability",
+        "artist": "Ayra starr",
+        "audio": "https://mdundo.com/widget_song/2186481",
+        "image": "https://example.com/images/suzanna.jpg"
+      },
+      {
+        "name": "Baby Riddim",
+        "artist": "Fave",
+        "audio":"https://mdundo.com/widget_song/2028914",
+        "image": "https://example.com/images/kuliko-jana.jpg"
+      },
+      {
+        "name": "Mr Man",
+        "artist": "Fave",
+        "audio": "https://mdundo.com/widget_song/2028912",
+        "image": "https://example.com/images/nishike.jpg"
+      },
+      {
+        "name": "Obsessed",
+        "artist": "Fave",
+        "audio": "https://mdundo.com/widget_song/2028905",
+        "image": "https://example.com/images/unconditionally-bae.jpg"
+      },
+      {
+        "name": "Sunny beat",
+        "artist": "Asake",
+        "audio": "https://mdundo.com/widget_song/3242431",
+        "image": "https://example.com/images/live-and-die-in-afrika.jpg"
+      },
+      {
+        "name": "AFROBEAT BEST SONGS MIX FT VICT",
+        "artist": "DJ LYTA Mixes",
+        "audio": "https://mdundo.com/widget_song/3337769",
+        "image": "https://example.com/images/shake-yo-bam-bam.jpg"
+      },
+      {
+        "name": "Nakupenda. (Official audio)",
+        "artist": "Jay Melody",
+        "audio": "https://mdundo.com/widget_song/3426552",
+        "image": "https://example.com/images/sura-yako.jpg"
+      },
+      {
+        "name": "Unity. (Official audio)",
+        "artist": "Alan Walker",
+        "audio": "https://mdundo.com/widget_song/3483868",
+        "image": "https://example.com/images/african-star.jpg"
+      },
+      {
+        "name": "Mid-Week Party Mix Ft Ssaru, Mejja",
+        "artist": "DJ LYTA Mixes",
+        "audio": "https://mdundo.com/widget_song/2660002",
+        "image": "https://example.com/images/blue-uniform.jpg"
+      },
+      {
+        "name": "Latest Amapiano Best Hits ft Nandiph",
+        "artist": "DJ LYTA Mixes",
+        "audio": "https://mdundo.com/widget_song/3128303",
+        "image": "https://example.com/images/rhumba-japani.jpg"
+      }
+    ]
+  }
+  
